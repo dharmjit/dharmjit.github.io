@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Developer with experience in Java, Python and Oracle. These days getting inclined towards the era of Big Data and machine learning and same time towards spiritualism.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Always Learning and sharing what I have learnt. I believe that is the way to make world a better place.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dharmjit.bti@gmail.com](mailto:dharmjit.bti@gmail.com)
