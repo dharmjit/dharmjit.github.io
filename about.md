@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Developer with experience in Java, Python and Oracle. These days getting inclined towards the era of Big Data and machine learning and same time towards spiritualism.
+Software developer, active learner, curious and passionate
 
 ### More Information
 
